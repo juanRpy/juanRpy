@@ -3,8 +3,8 @@
   - 🌱 Actualmente soy estudiante de ingeniería electrónica.
   - 🚀 Egresado de MisiónTIC 2022 en la UTP.
   - 🤓 Cuento con habilidades generales en programación con énfasis en desarrollo web.
-  - 💼 En busca de un trabajo que permita reforzar mis habilidades.
   - ☕ El manejo de Java me ha abierto las puertas al uso de herramientas como: spring, hibernate y MySQL.
+  - 💼 En busca de un trabajo que permita reforzar mis habilidades.
   - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Estudie durante 5 años el idioma inglés en el instituto ENGLISH FOR ALL BUGA adquiriendo el diploma de bilingüismo.
   - 🎮 Me gusta mucho el cine y los videojuegos.
 <!--
